@@ -1,0 +1,16 @@
+# Local Database Persistence
+reborn_rec.db
+reborn_rec.db-journal
+
+# Python Cache Matrices
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local Backups created by patcher.py
+*.bak
+
+# OS Metadata Garbage
+.DS_Store
+Thumbs.db
